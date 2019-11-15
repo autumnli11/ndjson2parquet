@@ -6,3 +6,5 @@ test_0.json
 test_1.json
 test_2.json
 test_3.json
+.vscode
+__pycache__
